@@ -43,4 +43,7 @@ Este projeto foi desenvolvido como parte das atividades do **Santander - Excel c
 
 ## 📷 Visual
 
-![Visão Geral da Planilha](./
+![Visão Geral da Planilha](./titular.png)
+![Visão Geral da Planilha](./informes.png)
+![Visão Geral da Planilha](./notas.png)
+![Visão Geral da Planilha](./tabelas.png)
