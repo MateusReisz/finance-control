@@ -1,0 +1,24 @@
+# Ignorar arquivos temporários do Office/Excel
+~$*
+*.tmp
+
+# Ignorar backups automáticos
+*.bak
+*.backup
+*.autosave
+
+# Ignorar arquivos do OneDrive (caso sincronize)
+*.lnk
+*.tmp.driveupload
+
+# Ignorar arquivos ocultos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignorar arquivos de cache do editor (se usar algum no projeto)
+.vscode/
+.idea/
+
+# (opcional) Ignorar o próprio arquivo Excel, se não quiser versionar ele diretamente
+# projeto-financ.xlsx
