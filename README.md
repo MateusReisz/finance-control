@@ -43,4 +43,4 @@ Este projeto foi desenvolvido como parte das atividades do **Santander - Excel c
 
 ## 📷 Visual
 
-*(imagem abaixo gerada automaticamente com as planilhas do projeto)*
+![Visão Geral da Planilha](./
