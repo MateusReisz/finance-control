@@ -36,6 +36,11 @@ Projeto liberado sob licença MIT para uso pessoal e acadêmico.
 
 Desenvolvido por **Mateus Reis**.
 
+## 🏅 Origem do Projeto
+
+Este projeto foi desenvolvido como parte das atividades do **Santander - Excel com Inteligência Artificial, em parceria com a DIO**, com adaptações e melhorias pessoais feitas por mim.
+
+
 ## 📷 Visual
 
 *(imagem abaixo gerada automaticamente com as planilhas do projeto)*
